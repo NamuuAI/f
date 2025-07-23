@@ -9,7 +9,7 @@ This is the official website of FCCCI, a community-driven, climate-resilience no
 
 ## 🌐 Live Website
 
-> [https://fccci.netlify.app](https://fccci.netlify.app) ← _replace with your Netlify link_
+> [https://fccci.netlify.app](https://frontiercounties.org)
 
 ---
 
