@@ -9,7 +9,7 @@ This is the official website of FCCCI, a community-driven, climate-resilience no
 
 ## 🌐 Live Website
 
-> [https://fccci.netlify.app](https://frontiercounties.org)
+> [https://fccci.netlify.app](https://fccci.netlify.app) ← _replace with your Netlify link_
 
 ---
 
@@ -25,55 +25,3 @@ This is the official website of FCCCI, a community-driven, climate-resilience no
 
 ## 📁 Folder Structure
 
-fccci-website/
-├── index.html
-├── about.html
-├── our-work.html
-├── get-involved.html
-├── blog.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── *.jpg / *.png (photos used in site)
-
-
----
-
-## 🚀 How to Deploy via Netlify
-
-1. Fork or clone this repo
-2. Go to [Netlify](https://app.netlify.com/) and sign in
-3. Click **“Add new site” → “Import from Git”**
-4. Select this GitHub repo
-5. Hit **“Deploy”**
-6. Done! 🎉
-
----
-
-## 💡 About FCCCI
-
-FCCCI operates in 11 counties of Northern Kenya and focuses on:
-- Locally Led Climate Action (LLCA)
-- Ecosystem Restoration
-- Indigenous Knowledge & Cultural Resilience
-- Livelihood Diversification
-- Climate Finance & Emergency Preparedness
-
-> Read more at the [About Us](about.html) or [Our Work](our-work.html) sections.
-
----
-
-## 🙌 Contribute or Get Involved
-
-- Volunteers and collaborators welcome!
-- Reach us via: `volunteer@fccci.org`
-
----
-
-## 📄 License
-
-MIT License. You are free to adapt, reuse, and extend with attribution.
-
----
